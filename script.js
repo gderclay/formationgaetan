@@ -1,7 +1,7 @@
-var TITLE = 'Air Transport, Passengers Carried (1970–2018)';
+var TITLE = 'Flux de migration Vénézuela';
 
 // Caption underneath the chart
-var CAPTION = 'Source: The World Bank';
+var CAPTION = 'Source: HCR';
 
 // Add download link to the caption
 CAPTION += '<br><a href="https://github.com/HandsOnDataViz/highcharts-line-annotated" style="color:blue">View data and code</a>, \
